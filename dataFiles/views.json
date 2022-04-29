@@ -1,0 +1,44 @@
+[
+    {
+        "route": "/categorias",
+        "name": "categorías",
+        "icon": "unarchive",
+        "category_id": 1
+    },
+    {
+        "route": "/vistas/ver",
+        "name": "Vistas",
+        "icon": "remove_red_eye",
+        "category_id": 1
+    },
+    {
+        "route": "/vistas/asignar",
+        "name": "Asignar vistas",
+        "icon": "add_circle",
+        "category_id": 1
+    },
+    {
+        "route": "/roles",
+        "name": "Roles",
+        "icon": "person_pin",
+        "category_id": 2
+    },
+    {
+        "route": "/usuarios",
+        "name": "Usuarios",
+        "icon": "people",
+        "category_id": 2
+    },
+    {
+        "route": "/reportes/admin",
+        "name": "Admin",
+        "icon": "domain",
+        "category_id": 3
+    },
+    {
+        "route": "/reportes/operadores",
+        "name": "Operadores",
+        "icon": "public",
+        "category_id": 3
+    }
+]
